@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\bin\Debug\Vault.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\bin\Debug\Vault.pdb
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\bin\Debug\OTAPI.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\bin\Debug\TerrariaServer.exe
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\bin\Debug\TShockAPI.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\obj\Debug\Vault.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\obj\Debug\Vault.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\obj\Debug\Vault.csproj.CopyComplete
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\obj\Debug\Vault.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Vault\Vault\obj\Debug\Vault.pdb
